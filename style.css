@@ -1,0 +1,145 @@
+body{
+  color: #40514E;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+font-size: 120%;
+background-image: url(images/smallcross.svg);
+}
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 30px;
+color: white;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+}
+
+
+.my-pic{
+  margin-top: 100px;
+
+  border-radius: 90px;
+  height: 180px;
+  width: 180px;
+}
+
+.computer{
+  border-radius: 90px;
+  position: absolute;
+  right: 80%;
+width: 180px;
+height: 180px;
+}
+.mar{
+  padding-top: 10px;
+}
+.super-st{
+  font-size: 10pt;
+}
+
+.badminton{
+  border-radius: 90px;
+
+position: absolute;
+left: 80%;
+  width: 180px;
+  height: 180px;
+}
+
+
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+ font-size: 2.5rem;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 1.5;
+}
+
+.programmer{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+ font-size: 2rem;
+}
+
+.topp{
+  background-color: #2b486a;
+  position: relative;
+padding-top: 110px;
+}
+.skills{
+  margin-top: 80px;
+}
+.skill-row{
+  width: 50%;
+  margin: 70px auto 100px auto;
+  text-align: left;
+
+}
+
+.bottom-container{
+background-color: #2b486b;
+padding: 20px;
+
+}
+
+hr{
+border-top-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 6px;
+  margin: 100px auto 100px auto;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.message{
+  width: 50px;
+  height:50px;
+}
+
+.social-1{
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+  width: 30px;
+  height:30px;
+}
+.social-2{
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+  width: 30px;
+  height:30px;
+}
+.social-3{
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+  width: 30px;
+  height:30px;
+}
+
+.copyright{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+ font-size: 0.75rem;
+ margin-bottom: 1px;
+}
